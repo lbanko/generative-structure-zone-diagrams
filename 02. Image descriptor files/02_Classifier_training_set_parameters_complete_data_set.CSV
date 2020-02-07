@@ -1,0 +1,124 @@
+file name,sample id,position,temperature [C],Al-concentration [at.%],O-concentration [at.%],ionization degree [a.u.],average ion energy [eV],pressure [Pa],label
+0001208_200-Pos1-50kx.jpg,1208,1,200,54.85,10,0.5,7.1438,0.5,fine grained
+0001208_200-Pos2-50kx.jpg,1208,2,200,49.36,10,0.5,6.69893,0.5,fine grained
+0001208_200-Pos3-50kx.jpg,1208,3,200,43.86,10,0.5,6.31924,0.5,fine grained
+0001208_200-Pos4-50kx.jpg,1208,4,200,38.38,10,0.5,6.1351,0.5,fine grained
+0001208_200-Pos5-50kx.jpg,1208,5,200,32.9,10,0.5,6.43797,0.5,fine grained
+0001208_200-Pos6-50kx.jpg,1208,6,200,27.42,10,0.5,7.22784,0.5,fine grained
+0001208_200-Pos7-50kx.jpg,1208,7,200,21.98,10,0.5,7.88422,0.5,fine grained
+0001208_200-Pos8-50kx.jpg,1208,8,200,16.57,10,0.5,8.49609,0.5,fine grained
+0001208_400-Pos1-50kx.jpg,1208,1,400,54.85,10,0.5,7.1438,0.5,fine grained
+0001208_400-Pos2-50kx.jpg,1208,2,400,49.36,10,0.5,6.69893,0.5,fine grained
+0001208_400-Pos3-50kx.jpg,1208,3,400,43.86,10,0.5,6.31924,0.5,fine grained
+0001208_400-Pos4-50kx.jpg,1208,4,400,38.38,10,0.5,6.1351,0.5,fine grained
+0001208_400-Pos5-50kx.jpg,1208,5,400,32.9,10,0.5,6.43797,0.5,fine grained
+0001208_400-Pos6-50kx.jpg,1208,6,400,27.42,10,0.5,7.22784,0.5,fine grained
+0001208_400-Pos7-50kx.jpg,1208,7,400,21.98,10,0.5,7.88422,0.5,fine grained
+0001208_400-Pos8-50kx.jpg,1208,8,400,16.57,10,0.5,8.49609,0.5,fine grained
+0001208_600-Pos1-50kx.jpg,1208,1,600,54.85,10,0.5,7.1438,0.5,facetted
+0001208_600-Pos2-50kx.jpg,1208,2,600,49.36,10,0.5,6.69893,0.5,facetted
+0001208_600-Pos3-50kx.jpg,1208,3,600,43.86,10,0.5,6.31924,0.5,facetted
+0001208_600-Pos4-50kx.jpg,1208,4,600,38.38,10,0.5,6.1351,0.5,facetted
+0001208_600-Pos5-50kx.jpg,1208,5,600,32.9,10,0.5,6.43797,0.5,facetted
+0001208_600-Pos6-50kx.jpg,1208,6,600,27.42,10,0.5,7.22784,0.5,facetted
+0001208_600-Pos7-50kx.jpg,1208,7,600,21.98,10,0.5,7.88422,0.5,facetted
+0001208_600-Pos8-50kx.jpg,1208,8,600,16.57,10,0.5,8.49609,0.5,facetted
+1660-Pos1-50kx_ergebnis.jpg,1660,1,500,70.3647,0,1,7.1438,0.5,fine grained
+1660-Pos2-50kx_ergebnis.jpg,1660,2,500,61.98026,0,1,6.75453,0.5,fine grained
+1660-Pos3-50kx_ergebnis.jpg,1660,3,500,53.50541,0,1,6.36527,0.5,facetted
+1660-Pos4-50kx_ergebnis.jpg,1660,4,500,44.99311,0,1,6.20415,0.5,facetted
+1660-Pos5-50kx_ergebnis.jpg,1660,5,500,36.46607,0,1,6.04303,0.5,facetted
+1660-Pos6-50kx_ergebnis.jpg,1660,6,500,27.95631,0,1,6.73417,0.5,facetted
+1660-Pos7-50kx_ergebnis.jpg,1660,7,500,19.50752,0,1,7.42531,0.5,facetted
+1660-Pos8-50kx_ergebnis.jpg,1660,8,500,11.37452,0,1,7.9607,0.5,facetted
+1663-Pos1-50kx_ergebnis.jpg,1663,1,500,69.84707,0,1,42.1438,0.5,fine grained
+1663-Pos2-50kx_ergebnis.jpg,1663,2,500,64.29359,0,1,41.75453,0.5,fine grained
+1663-Pos3-50kx_ergebnis.jpg,1663,3,500,57.3453,0,1,41.36527,0.5,fine grained
+1663-Pos4-50kx_ergebnis.jpg,1663,4,500,48.17931,0,1,41.20415,0.5,fine grained
+1663-Pos5-50kx_ergebnis.jpg,1663,5,500,37.99573,0,1,41.04303,0.5,facetted
+1663-Pos6-50kx_ergebnis.jpg,1663,6,500,28.28568,0,1,41.73417,0.5,facetted
+1663-Pos7-50kx_ergebnis.jpg,1663,7,500,20.44061,0,1,42.42531,0.5,facetted
+1663-Pos8-50kx_ergebnis.jpg,1663,8,500,15.166,0,1,42.9607,0.5,facetted
+1663-Pos9-50kx_ergebnis.jpg,1663,9,500,11.13652,0,1,43.49609,0.5,facetted
+1678-Pos1-50kx_ergebnis.jpg,1678,1,500,68.97839,0,1.2,39.34222,1,fine grained
+1678-Pos2-50kx_ergebnis.jpg,1678,2,500,62.67405,0,1.2,38.85794,1,fine grained
+1678-Pos3-50kx_ergebnis.jpg,1678,3,500,54.29247,0,1.2,38.37365,1,fine grained
+1678-Pos4-50kx_ergebnis.jpg,1678,4,500,43.26505,0,1.2,38.30774,1,facetted
+1678-Pos5-50kx_ergebnis.jpg,1678,5,500,31.68825,0,1.2,38.24183,1,facetted
+1678-Pos6-50kx_ergebnis.jpg,1678,6,500,21.70199,0,1.2,38.27124,1,facetted
+1678-Pos7-50kx_ergebnis.jpg,1678,7,500,14.17013,0,1.2,38.30066,1,facetted
+1678-Pos8-50kx_ergebnis.jpg,1678,8,500,9.38411,0,1.2,38.58036,1,facetted
+1678-Pos9-50kx_ergebnis.jpg,1678,9,500,6.21288,0,1.2,38.86007,1,facetted
+1680-Pos2-50kx_ergebnis.jpg,1680,2,500,66.92915,0,1,106.75453,0.5,featureless
+1680-Pos3-50kx_ergebnis.jpg,1680,3,500,59.97647,0,1,106.36527,0.5,featureless
+1680-Pos4-50kx_ergebnis.jpg,1680,4,500,50.73767,0,1,106.20415,0.5,featureless
+1680-Pos5-50kx_ergebnis.jpg,1680,5,500,40.52396,0,1,106.04303,0.5,featureless
+1680-Pos6-50kx_ergebnis.jpg,1680,6,500,29.94711,0,1,106.73417,0.5,smooth-facetted
+1680-Pos7-50kx_ergebnis.jpg,1680,7,500,21.64282,0,1,107.42531,0.5,smooth-facetted
+1680-Pos8-50kx_ergebnis.jpg,1680,8,500,15.88576,0,1,107.9607,0.5,smooth-facetted
+1680-Pos9-50kx_ergebnis.jpg,1680,9,500,11.78733,0,1,108.49609,0.5,smooth-facetted
+1697_Pos1_50kx_cropped.jpg,1697,1,500,74.52808,0,1.2,100,1,fine grained
+1697_Pos10_50kx_cropped.jpg,1697,10,500,7.88694,0,1.2,100,1,smooth-facetted
+1697_Pos2_50kx_cropped.jpg,1697,2,500,69.10067,0,1.2,100,1,fine grained
+1697_Pos3_50kx_cropped.jpg,1697,3,500,61.98123,0,1.2,100,1,fine grained
+1697_Pos4_50kx_cropped.jpg,1697,4,500,52.8667,0,1.2,100,1,fine grained
+1697_Pos5_50kx_cropped.jpg,1697,5,500,42.69847,0,1.2,100,1,smooth-facetted
+1697_Pos6_50kx_cropped.jpg,1697,6,500,32.4341,0,1.2,100,1,smooth-facetted
+1697_Pos7_50kx_cropped.jpg,1697,7,500,23.32804,0,1.2,100,1,smooth-facetted
+1697_Pos8_50kx_cropped.jpg,1697,8,500,16.33817,0,1.2,100,1,smooth-facetted
+1697_Pos9_50kx_cropped.jpg,1697,9,500,11.3178,0,1.2,100,1,smooth-facetted
+3824_1_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3824,1,500,0,0,0.1,201,0.5,smooth-facetted
+3824_10_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3824,10,500,0,0,1,210,0.5,smooth-facetted
+3824_2_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3824,2,500,0,0,0.111111111,201.1111111,0.5,smooth-facetted
+3824_3_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3824,3,500,0,0,0.125,201.25,0.5,smooth-facetted
+3824_4_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3824,4,500,0,0,0.142857143,201.4285714,0.5,smooth-facetted
+3824_5_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3824,5,500,0,0,0.166666667,201.6666667,0.5,smooth-facetted
+3824_6_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3824,6,500,0,0,0.2,202,0.5,smooth-facetted
+3824_7_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3824,7,500,0,0,0.25,202.5,0.5,smooth-facetted
+3824_8_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3824,8,500,0,0,0.333333333,203.3333333,0.5,smooth-facetted
+3824_9_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3824,9,500,0,0,0.5,205,0.5,smooth-facetted
+3845_1_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3845,1,20,0,0,0.1,1,0.5,facetted-oriented
+3845_10_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3845,10,20,0,0,1,10,0.5,facetted-oriented
+3845_2_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3845,2,20,0,0,0.111111111,1.111111111,0.5,facetted-oriented
+3845_3_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3845,3,20,0,0,0.125,1.25,0.5,facetted-oriented
+3845_4_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3845,4,20,0,0,0.142857143,1.428571429,0.5,facetted-oriented
+3845_5_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3845,5,20,0,0,0.166666667,1.666666667,0.5,facetted-oriented
+3845_6_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3845,6,20,0,0,0.2,2,0.5,facetted-oriented
+3845_7_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3845,7,20,0,0,0.25,2.5,0.5,facetted-oriented
+3845_8_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3845,8,20,0,0,0.333333333,3.333333333,0.5,facetted-oriented
+3845_9_50kx_20kV_WD10_ergebnis_ergebnis.jpg,3845,9,20,0,0,0.5,5,0.5,facetted-oriented
+4203_200_Pos01_50kx.jpg,4203,1,200,0,3,0.1,1,0.5,facetted-oriented
+4203_200_Pos02_50kx.jpg,4203,2,200,0,3,0.12195122,2.8,0.5,facetted-oriented
+4203_200_Pos03_50kx.jpg,4203,3,200,0,3,0.15625,4.6,0.5,facetted-oriented
+4203_200_Pos04_50kx.jpg,4203,4,200,0,3,0.217391304,6.4,0.5,facetted-oriented
+4203_200_Pos05_50kx.jpg,4203,5,200,0,3,0.357142857,8.2,0.5,facetted-oriented
+4203_200_Pos06_50kx.jpg,4203,6,200,0,3,1,10,0.5,facetted-oriented
+4203_300_Pos01_50kx.jpg,4203,1,300,0,3,0.1,1,0.5,facetted-oriented
+4203_300_Pos02_50kx.jpg,4203,2,300,0,3,0.12195122,2.8,0.5,facetted-oriented
+4203_300_Pos03_50kx.jpg,4203,3,300,0,3,0.15625,4.6,0.5,facetted-oriented
+4203_300_Pos04_50kx.jpg,4203,4,300,0,3,0.217391304,6.4,0.5,facetted-oriented
+4203_300_Pos05_50kx.jpg,4203,5,300,0,3,0.357142857,8.2,0.5,facetted-oriented
+4203_300_Pos06_50kx.jpg,4203,6,300,0,3,1,10,0.5,facetted-oriented
+4203_400_Pos01_50kx.jpg,4203,1,400,0,3,0.1,1,0.5,facetted-oriented
+4203_400_Pos02_50kx.jpg,4203,2,400,0,3,0.12195122,2.8,0.5,facetted-oriented
+4203_400_Pos03_50kx.jpg,4203,3,400,0,3,0.15625,4.6,0.5,facetted-oriented
+4203_400_Pos04_50kx.jpg,4203,4,400,0,3,0.217391304,6.4,0.5,facetted-oriented
+4203_400_Pos05_50kx.jpg,4203,5,400,0,3,0.357142857,8.2,0.5,facetted-oriented
+4203_400_Pos06_50kx.jpg,4203,6,400,0,3,1,10,0.5,facetted-oriented
+4203_500_Pos01_50kx.jpg,4203,1,500,0,3,0.1,1,0.5,facetted
+4203_500_Pos02_50kx.jpg,4203,2,500,0,3,0.12195122,2.8,0.5,facetted
+4203_500_Pos03_50kx.jpg,4203,3,500,0,3,0.15625,4.6,0.5,facetted
+4203_500_Pos04_50kx.jpg,4203,4,500,0,3,0.217391304,6.4,0.5,facetted
+4203_500_Pos05_50kx.jpg,4203,5,500,0,3,0.357142857,8.2,0.5,facetted
+4203_500_Pos06_50kx.jpg,4203,6,500,0,3,1,10,0.5,facetted
+4203_650_Pos01_50kx.jpg,4203,1,650,0,3,0.1,1,0.5,facetted
+4203_650_Pos02_50kx.jpg,4203,2,650,0,3,0.12195122,2.8,0.5,facetted
+4203_650_Pos03_50kx.jpg,4203,3,650,0,3,0.15625,4.6,0.5,facetted
+4203_650_Pos04_50kx.jpg,4203,4,650,0,3,0.217391304,6.4,0.5,facetted
+4203_650_Pos05_50kx.jpg,4203,5,650,0,3,0.357142857,8.2,0.5,facetted
+4203_650_Pos06_50kx.jpg,4203,6,650,0,3,1,10,0.5,facetted
+4203_800_Pos1_50kx.jpg,4203,1,800,0,3,0.1,1,0.5,large facetted
+4203_800_Pos2_50kx.jpg,4203,2,800,0,3,0.12195122,2.8,0.5,large facetted
+4203_800_Pos3_50kx.jpg,4203,3,800,0,3,0.15625,4.6,0.5,large facetted
+4203_800_Pos4_50kx.jpg,4203,4,800,0,3,0.217391304,6.4,0.5,large facetted
+4203_800_Pos5_50kx.jpg,4203,5,800,0,3,0.357142857,8.2,0.5,large facetted
